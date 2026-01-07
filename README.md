@@ -65,7 +65,7 @@ module.exports = {
 
 ### 1️⃣ Repo’yu klonla
 ```bash
-git clone https://github.com/KULLANICIADIN/Mega-Discord-Bot.git
+git clone https://github.com/z3n1938/Mega-Discord-Bot.git
 cd Mega-Discord-Bot
 
 ```
