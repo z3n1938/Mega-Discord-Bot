@@ -6,7 +6,7 @@ Discord.js v14 ile geliştirilmiştir. 200+ komut, modüler handler sistemi ve g
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue.svg?logo=discord&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%3E%3D%2018-green.svg)
 ![License](https://img.shields.io/github/license/z3n1938/Mega-Discord-Bot)
-![Stars](https://img.shields.io/github/starsz3n1938/Mega-Discord-Bot?style=social)
+![Stars](https://img.shields.io/github/stars/z3n1938/Mega-Discord-Bot?style=social)
 
 ---
 
